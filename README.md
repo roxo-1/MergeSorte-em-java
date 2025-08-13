@@ -1,2 +1,6 @@
 # MergeSorte-em-java
-Escreva um m´etodo inverter(int a[]) em Java que receba um vetor com n elementos e devolva o vetor invertido. Ex: entrada: [ 1,3,6,4,5,9 ] sa´ıda: [ 9,5,4,6,3,1 ]
+Escreva um programa em Java que:
+• Leia dois vetores de n´umeros inteiros, contendo cada um, 5 elementos.
+• Intercale os elementos destes dois conjuntos formando um novo vetor de 10
+elementos.
+• Apresente o novo conjunto, assim obtido.
